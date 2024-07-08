@@ -1,4 +1,4 @@
-### 🤍 Olá! Eu sou o Gabriel Alves
+### 🔪 Olá! Eu sou o Gabriel Alves
 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1139283836136599644) 
